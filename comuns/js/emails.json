@@ -1,0 +1,40 @@
+{
+    "emails": [
+
+        {
+            "group": "Today April 23",
+            "list": [{
+                "id": 1,
+                "subject": "Teste4 - Multi-Purpose Admin Template Revolution Begins here!",
+                "to": ["Waldir Mauricio", "Jane Smith"],
+                "body": "<p>Dear Sir or Madam:<br></p><p><br>I have recently ordered a new pair of soccer cleats (item #6542951) from your website on June 21. I received the order on June 26. Unfortunately, when I opened it, I saw that the cleats were used. The cleats had dirt all over it and there was a small tear in front of the part where the left toe would go.  My order number is AF26168156.<br></p><p><br>To resolve the problem, I would like you to credit my account for the amount charged for my cleats; I have already went out and bought a new pair of cleats at my local sporting goods store so sending another would result in me having two pairs of the same cleats.<br></p><p><br>Than you for taking the time to read this letter.  I have been a satisfied customer of your company for many years and this is the first time I have encountered a problem.  If you need to contact me, you can reach me at (555) 555-5555.<br><br><br><br>Sincerely,<br></p><p><br><i>Signature</i></p> ",
+                "time": "asdasd",
+                "datetime" : "Today at 1:33pm",
+                "from": "Waldir Mauricio",
+                "dp": "/comuns/img/profiles/avatar.jpg",
+                "dpRetina": "/comuns/img/profiles/avatar2x.jpg"
+            }, {
+                "id": 2,
+                "subject": "Your site has some very imaginative animation /movement, especially the Sluggo! ",
+                "to": ["Anne Simons"],
+                "body": "<p>Dear Kristen:<br>I saw your listing on Craigslist.com for a website designer for your tee-shirt company. I'm attaching my resume even though it doesn't list my extensive tee-shirt folding experience. :)<br><br>Your site has some very imaginative animation/movement, especially the Sluggo! I look forward to talking with you about how I may be of help.<br>Lillian Black</p> ",
+                "time": "45 mins ago",
+                "datetime" : "Today at 1:33pm",
+                "from": "Anne Simons",
+                "dp": "/comuns/img/profiles/5.jpg",
+                "dpRetina": "/comuns/img/profiles/5x.jpg"
+            }, {
+                "id": 5,
+                "subject": "Simplicity is the ultimate sophistication",
+                "to": ["John Doe", "Anne Simons"],
+                "body": "<p> A man's favorite donkey falls into a deep precipice; <br>He can't pull it out no matter how hard he tries; <br>He therefore decides to bury it alive. <br><br>Soil is poured onto the donkey from above. <br>The donkey feels the load, shakes it off, and steps on it; <br>More soil is poured. <br><br>It shakes it off and steps up; <br>The more the load was poured, the higher it rose; <br>By noon, the donkey was grazing in green pastures. <br><br>After much shaking off (of problems) <br>And stepping up (learning from them), <br>One will graze in GREEN PASTURES.</p> ",
+                "time": "10:33pm",
+                "datetime" : "Today at 10:33pm",
+                "from": "Waldir Mauricio",
+                "dp": "/comuns/img/profiles/ba.jpg",
+                "dpRetina": "/comuns/img/profiles/ba2x.jpg"
+            }]
+        }
+
+    ]
+}
